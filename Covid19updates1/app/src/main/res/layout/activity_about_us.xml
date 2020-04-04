@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginLeft="15dp"
+    tools:context=".AboutUs"
+    android:layout_marginStart="15dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/developer_of_the_app"
+        android:textColor="@color/blue_used"
+        android:layout_marginTop="17dp"
+        android:textSize="24sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/shivam_taneja"
+        android:textColor="@color/black"
+        android:layout_marginTop="20dp"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/graduated_from_uiet_pu_chandigarh_2019"
+        android:textColor="@color/black"
+        android:layout_marginTop="10dp"
+        android:textSize="19.5sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/rishab_batra"
+        android:textColor="@color/black"
+        android:layout_marginTop="20dp"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/graduated_from_jiit_noida_2018"
+        android:textColor="@color/black"
+        android:layout_marginTop="10dp"
+        android:textSize="19.5sp"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/contact_us"
+        android:textColor="#3EA3DA"
+        android:layout_marginTop="45dp"
+        android:textSize="24sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/for_your_queries_complaints_mail_us_on"
+        android:textColor="@color/black"
+        android:layout_marginTop="15dp"
+        android:textSize="20sp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/e_mail_shivamtaneja1990_gmail_com"
+        android:textColor="@color/black"
+        android:layout_marginTop="15dp"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/thank_you_for_downloading_the_app"
+        android:textColor="#3EA3DA"
+        android:layout_marginTop="27dp"
+        android:textSize="24sp"/>
+
+    <TextView
+        android:layout_width="250dp"
+        android:layout_height="100dp"
+        android:text="@string/keep_yourself_updated"
+        android:textColor="#2A77A1"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_margin="17dp"
+        android:textSize="32sp"/>
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>
+

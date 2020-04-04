@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="black">#000000</color>
+
+    <color name="colorRed_900">#B71C1C</color>
+    <color name="yellow_conf">#CAB607</color>
+    <color name="green_recv">#1A6742</color>
+    <color name="grey_searchbar">#0D000000</color>
+    <color name="blue_used">#3EA3DA</color>
+
+
+</resources>
